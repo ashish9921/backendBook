@@ -25,7 +25,7 @@ app.get("/",(req,res)=>{
 })
 
 
-app.post("/api/book",async(req,res)=>{
+app.post("/api/books",async(req,res)=>{
     const{Title,Author,Summary}=req.body
     try {
     const bookdata=new Book({Title,Author,Summary})
