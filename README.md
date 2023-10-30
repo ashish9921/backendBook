@@ -1,15 +1,7 @@
-# Your Project Name
+# BOOK store app
 
-Brief description of your project.
+here is backend part of project which include post data ,get data, get data by id, update data 
 
-## Table of Contents
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
