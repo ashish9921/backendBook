@@ -2,11 +2,6 @@
 
 here is backend part of project which include post data ,get data, get data by id, update data 
 
-
-## Getting Started
-
-Provide instructions on how to set up the project locally.
-
 ### Prerequisites
 
 List any software, libraries, or tools that users need to have installed before they can use your project. For example:
