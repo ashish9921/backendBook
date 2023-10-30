@@ -11,7 +11,7 @@ app.listen(port,()=>{
     console.log("app is running")
 })
 // connect mongodb books database
-mongoose.connect("mongodb://127.0.0.1:27017/books",{
+mongoose.connect("mongodb+srv://root:real@cluster0.wsr8uw3.mongodb.net/?retryWrites=true&w=majority",{
     useNewUrlParser:true,
     useUnifiedTopology:true,
 }).then(()=>{
