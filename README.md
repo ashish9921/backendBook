@@ -22,7 +22,7 @@ List any software, libraries, or tools that users need to have installed before 
 ### Use Request
    Local Host                                            
  - Post -http://localhost:3000/api/book/
- - server post https://backendbook-84wr.onrender.com/api/book
+ - server post https://backendbook-84wr.onrender.com/api/books
  - get all-http://localhost:3000/api/books/
  - server get all https://backendbook-84wr.onrender.com/api/books
  - getById- http://localhost:3000/api/books/{id}
