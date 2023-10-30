@@ -9,6 +9,9 @@ List any software, libraries, or tools that users need to have installed before 
 - Node.js
 - NPM
 - MongoDB (Make sure it's installed and running)
+- install mongoose
+- install express
+- install nodemon
 
 ### Installation
 
